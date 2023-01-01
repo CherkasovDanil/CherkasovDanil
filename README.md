@@ -1,6 +1,6 @@
 ### 👋 Hi everyone, i'm Danil 
 _______________________________________________________________________________________________________________
-![](https://www.pngwing.com/ru/free-png-yicos) A Unity developer
+😎 Unity developer
 
 🏈 American football player (DE)
 
