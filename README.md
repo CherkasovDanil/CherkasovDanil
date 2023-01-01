@@ -1,16 +1,22 @@
-### Hi there 👋
+### 👋 Hi everyone, i'm Danil 
+_______________________________________________________________________________________________________________
+![](https://www.pngwing.com/ru/free-png-yicos) A Unity developer
 
-<!--
-**CherkasovDanil/CherkasovDanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏈 American football player (DE)
 
-Here are some ideas to get you started:
+🏂 Snowboard skater
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools
+
+
+![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/static/v1?style=for-the-badge&message=Rider&color=00008b&logo=Rider&logoColor=FFFFFF&label=)
+![Oculus](https://img.shields.io/static/v1?style=for-the-badge&message=Oculus&color=1C1E20&logo=Oculus&logoColor=FFFFFF&label=)
+![DOTWEEN](https://img.shields.io/static/v1?style=for-the-badge&message=DotWeen&color=4f7942&logo=Rider&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/static/v1?style=for-the-badge&message=Zenject&color=5e5e5e&logo=Rider&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/static/v1?style=for-the-badge&message=LeoECS&color=000000&logo=Rider&logoColor=FFFFFF&label=)
+![Rider](https://img.shields.io/static/v1?style=for-the-badge&message=UniRx&color=f984e5&logo=Rider&logoColor=FFFFFF&label=)
+
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27a0d9>)](https://t.me/Cherkasov_Danil)
